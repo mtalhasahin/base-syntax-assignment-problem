@@ -1,0 +1,11 @@
+.User {
+    width: 40%;
+    margin: 15px auto;
+    border: 1px solid #ccc;
+    padding: 15px;
+    text-align: center;
+}
+
+p > span {
+font-weight: bold;
+}   
